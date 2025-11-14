@@ -159,6 +159,6 @@ TCP latency rises significantly due to cumulative retransmission delays.
 
 # Author
 
-Syed Abubaker Ahmed
+**Syed Abubaker Ahmed**
 
 AI/ML Engineer | Computer Vision Developer | Autonomous Systems & Smart Mobility | Smart City Technology Researcher | CS Undergraduate
